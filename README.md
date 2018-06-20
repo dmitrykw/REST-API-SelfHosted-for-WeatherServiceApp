@@ -1,1 +1,4 @@
-# REST-API-SelfHosted-for-WeatherServiceApp
+#REST-API-SelfHosted-for-WeatherServiceApp
+Приложение командной строки. Реализует доступ по HTTP к кешу файлов погоды городов России, сгенерированного сервисом https://github.com/dmitrykw/WeatherParser
+Так же в данном проекте реализовано приложение командной строки Client для получения этих данных по HTTP и вывода в командную строку.
+
