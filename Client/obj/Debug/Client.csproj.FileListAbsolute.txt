@@ -1,0 +1,33 @@
+D:\mudita\projects\Hosting\Client\bin\Debug\Client.exe.config
+D:\mudita\projects\Hosting\Client\bin\Debug\Client.exe
+D:\mudita\projects\Hosting\Client\bin\Debug\Client.pdb
+D:\mudita\projects\Hosting\Client\bin\Debug\Hosting.exe
+D:\mudita\projects\Hosting\Client\bin\Debug\System.Net.Http.Formatting.dll
+D:\mudita\projects\Hosting\Client\bin\Debug\System.Web.Http.dll
+D:\mudita\projects\Hosting\Client\bin\Debug\System.Web.Http.SelfHost.dll
+D:\mudita\projects\Hosting\Client\bin\Debug\Newtonsoft.Json.dll
+D:\mudita\projects\Hosting\Client\bin\Debug\Hosting.pdb
+D:\mudita\projects\Hosting\Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\mudita\projects\Hosting\Client\bin\Debug\System.Web.Http.xml
+D:\mudita\projects\Hosting\Client\bin\Debug\System.Web.Http.SelfHost.xml
+D:\mudita\projects\Hosting\Client\bin\Debug\Newtonsoft.Json.xml
+D:\mudita\projects\Hosting\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\mudita\projects\Hosting\Client\obj\Debug\Client.exe
+D:\mudita\projects\Hosting\Client\obj\Debug\Client.pdb
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\Client.exe.config
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\Client.exe
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\Client.pdb
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\Hosting.exe
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\System.Web.Http.dll
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\Hosting.pdb
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\Hosting.exe.config
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\System.Web.Http.xml
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\obj\Debug\Client.exe
+C:\Users\renkt\OneDrive\Documents\Visual Studio 2017\Projects\Hosting\Client\obj\Debug\Client.pdb
